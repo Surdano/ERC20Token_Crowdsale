@@ -50,25 +50,4 @@ To interact with the smart contracts:
 
 ## Visualizations 
 
-Contract Deployment:
-
-
-
-
-
-
-First Purchase:
-
-
-
-
-
-
-Second Purchase:
-
-
-
-
-
-
-KaseiCoin in Metamask Wallet:
+View the following executions in the Visualization folder: Contract Deployment, First Purchase, Second Purchase, Viewing KaseiCoin in Metamask Wallet

@@ -2,9 +2,7 @@
 
 ![image of ICO](https://www.asktraders.com/wp-content/uploads/2020/08/Was-ist-ein-ICO-1536x864.jpg)
 
-You will create a fungible token that is ERC-20 compliant and that will be minted by using the `Crowdsale` and `MintedCrowdsale` contract from the OpenZeppelin Solidity library.
-
-The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send Ethereum to the contract and in return receive KSC, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
+In this application you will create a fungible token that is ERC-20 compliant and that will be minted by using the `Crowdsale` and `MintedCrowdsale` contract from the OpenZeppelin Solidity library. The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send Ethereum to the contract and in return receive KSC, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
 ---
 
